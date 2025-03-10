@@ -1,0 +1,24 @@
+{
+  "name": "rahu",
+  "version": "1.0.0",
+  "description": "A versatile project with useful features",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "rahu",
+    "node",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
